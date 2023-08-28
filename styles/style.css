@@ -162,3 +162,36 @@ font-weight: 800;
 .insta-img{
     margin-right: 24px;
 }
+
+/* subscribe */
+
+.subscribe{
+    background-image: url('../assets/images/Rectangle\ 9.png');
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    margin: 128px 240px;
+    padding: 122px 287px;
+    text-align: center;
+}
+.sub-form{
+    margin-top:48px;
+    display: flex;
+}
+.sub-form input {
+ color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 16px;
+
+font-weight: 400;
+
+width: 700px;
+height: 64px;
+flex-shrink: 0;width: 700px;
+height: 64px;
+margin-right: 16px;
+flex-shrink: 0;
+border: none;
+border-radius: 8px;
+background: #FFF;
+}
