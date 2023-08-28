@@ -195,3 +195,20 @@ border: none;
 border-radius: 8px;
 background: #FFF;
 }
+
+/* footer */
+
+.footer{
+    background: #111010;
+    padding: 128px 648px;
+    color: #FFF;
+    text-align: center;
+}
+.copy-text{
+color: rgba(255, 255, 255, 0.40);
+
+font-size: 16px;
+margin-top: 38px;
+font-weight: 400;
+
+}
