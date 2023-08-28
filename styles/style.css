@@ -61,7 +61,7 @@ font-size: 40px;
 font-weight: 800;
 
 }
-.featured-text p{
+.p{
 
 color: rgba(39, 39, 39, 0.60);
 
@@ -121,3 +121,28 @@ flex-shrink: 0;
 
 
 /* hot deal sections */
+
+.hot-deal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 128px 0;
+    padding: 100px 429px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.hot-deal-text{
+    margin-right: 215px;
+}
+.hot-deal-text h1{
+color: #272727;
+
+font-size: 40px;
+
+font-weight: 800;
+
+}
+.pink-text{
+    color: #E55473;
+}
